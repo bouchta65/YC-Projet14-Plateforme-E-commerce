@@ -21,16 +21,3 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/composer.json
-/composer.lock
-/psalm.xml
-phpunit.xml
-/package.json
-/tailwind.config.js
-/.env.example
-/artisan
-/postcss.config.js
-/vite.config.js
-/editorconfig
-/.gitattributes
-/.editorconfig
